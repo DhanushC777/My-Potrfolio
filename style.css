@@ -1,0 +1,66 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:rgba(113, 110, 120, 0.789);
+}
+
+header {
+    background-color:rgb(35, 33, 33);
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+p{
+    text-align: left;
+    margin-left: 50px;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+}
+div{
+    float: right;
+    margin-right: 400px;
+    margin-top: 0px;
+}
+h2{
+    color: white;
+}
+h1{
+    color: white;
+    text-align: left;
+    margin-left: 50px;
+}
+li{
+    margin: 10px;
+    color: white;
+}
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: #f44;
+}
+
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color:rgb(19, 17, 16);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
